@@ -8,8 +8,4 @@ edition = "2018"
 name = "hello_world"
 path = "src/hello_world/main.rs"
 
-[[bin]]
-name = "more"
-path = "src/more/main.rs"
-
 [dependencies]

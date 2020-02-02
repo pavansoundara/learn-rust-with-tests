@@ -1,0 +1,15 @@
+[package]
+name = "learn-rust-with-tests"
+version = "0.1.0"
+authors = ["pavansoundara <pavansoundara@gmail.com>"]
+edition = "2018"
+
+[[bin]]
+name = "hello_world"
+path = "src/hello_world/main.rs"
+
+[[bin]]
+name = "more"
+path = "src/more/main.rs"
+
+[dependencies]

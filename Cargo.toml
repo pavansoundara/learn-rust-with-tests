@@ -8,4 +8,16 @@ edition = "2018"
 name = "hello_world"
 path = "src/hello_world/main.rs"
 
+[[bin]]
+name = "integers"
+path = "src/integers/main.rs"
+
+[[bin]]
+name = "iteration"
+path = "src/iteration/main.rs"
+
+[[bin]]
+name = "arrays"
+path = "src/arrays/main.rs"
+
 [dependencies]

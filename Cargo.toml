@@ -20,4 +20,8 @@ path = "src/iteration/main.rs"
 name = "arrays"
 path = "src/arrays/main.rs"
 
+[[bin]]
+name = "structs_methods_and_interfaces"
+path = "src/structs_methods_and_interfaces/main.rs"
+
 [dependencies]

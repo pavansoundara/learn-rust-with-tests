@@ -24,4 +24,8 @@ path = "src/arrays/main.rs"
 name = "structs_methods_and_interfaces"
 path = "src/structs_methods_and_interfaces/main.rs"
 
+[[bin]]
+name = "pointers_and_errors"
+path = "src/pointers_and_errors/main.rs"
+
 [dependencies]
